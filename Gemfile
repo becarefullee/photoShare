@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-
+gem 'simple_form', '~> 3.1.0'
 gem 'paperclip', '~> 4.2' #at the writing of this post
 
 gem 'haml', '~> 4.0.5'
